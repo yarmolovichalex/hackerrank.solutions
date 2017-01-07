@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mean_median_and_mode", "hac
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Days Of Statistics", "10 Days Of Statistics", "{2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weighted_mean", "weighted_mean\weighted_mean.csproj", "{35AD8C39-8416-475D-A099-09DFA6797297}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AD8C39-8416-475D-A099-09DFA6797297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AD8C39-8416-475D-A099-09DFA6797297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AD8C39-8416-475D-A099-09DFA6797297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AD8C39-8416-475D-A099-09DFA6797297}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
+		{35AD8C39-8416-475D-A099-09DFA6797297} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 	EndGlobalSection
 EndGlobal
