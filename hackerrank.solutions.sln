@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mean_median_and_mode", "hackerrank.solutions.mean_median_and_mode\mean_median_and_mode.csproj", "{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Days Of Statistics", "10 Days Of Statistics", "{2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
+	EndGlobalSection
+EndGlobal
