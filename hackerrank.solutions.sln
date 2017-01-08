@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interquartile_range", "inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "standard_deviation", "standard_deviation\standard_deviation.csproj", "{8859F96A-C03C-4AE7-B6FC-5D573D6DF8EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings_making_anagrams", "strings_making_anagrams\strings_making_anagrams.csproj", "{E05B8D3F-9945-4807-8EE7-EA94FC1A6957}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{8859F96A-C03C-4AE7-B6FC-5D573D6DF8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8859F96A-C03C-4AE7-B6FC-5D573D6DF8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8859F96A-C03C-4AE7-B6FC-5D573D6DF8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05B8D3F-9945-4807-8EE7-EA94FC1A6957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05B8D3F-9945-4807-8EE7-EA94FC1A6957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05B8D3F-9945-4807-8EE7-EA94FC1A6957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05B8D3F-9945-4807-8EE7-EA94FC1A6957}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +66,6 @@ Global
 		{D3F793D1-3E81-4C71-9254-1BB2C06A9825} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 		{8859F96A-C03C-4AE7-B6FC-5D573D6DF8EE} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
+		{E05B8D3F-9945-4807-8EE7-EA94FC1A6957} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 	EndGlobalSection
 EndGlobal
