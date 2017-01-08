@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace quartiles
 {
@@ -22,7 +20,7 @@ namespace quartiles
 
             var q2 = calculateMedianOfSortedSeq(data, count);
             var q1 = calculateMedianOfSortedSeq(data.Take(count/2).ToList(), count/2);
-            var q3 = calculateMedianOfSortedSeq(data.Skip(count/2).Take(count/2).ToList(), count/2);
+            var q3 = calculateMedianOfSortedSeq(data.Skip((count + 1)/2).Take(count/2).ToList(), count/2);
 
             Console.WriteLine(q1);
             Console.WriteLine(q2);

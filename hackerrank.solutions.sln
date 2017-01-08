@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cracking the Coding Intervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays_left_rotation", "arrays_left_rotation\arrays_left_rotation.csproj", "{E31C3D0D-80DA-4819-AF66-5FD61C03C493}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quartiles", "quartiles\quartiles.csproj", "{D3F793D1-3E81-4C71-9254-1BB2C06A9825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interquartile_range", "interquartile_range\interquartile_range.csproj", "{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{E31C3D0D-80DA-4819-AF66-5FD61C03C493}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E31C3D0D-80DA-4819-AF66-5FD61C03C493}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E31C3D0D-80DA-4819-AF66-5FD61C03C493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F793D1-3E81-4C71-9254-1BB2C06A9825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F793D1-3E81-4C71-9254-1BB2C06A9825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F793D1-3E81-4C71-9254-1BB2C06A9825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F793D1-3E81-4C71-9254-1BB2C06A9825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,5 +51,7 @@ Global
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 		{35AD8C39-8416-475D-A099-09DFA6797297} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 		{E31C3D0D-80DA-4819-AF66-5FD61C03C493} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
+		{D3F793D1-3E81-4C71-9254-1BB2C06A9825} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
+		{F6AA9AE7-4824-49EA-A0A7-A7D5F8993955} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 	EndGlobalSection
 EndGlobal
