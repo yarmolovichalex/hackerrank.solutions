@@ -7,8 +7,8 @@
     <ProjectGuid>{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>hackerrank.solutions.mean_median_and_mode</RootNamespace>
-    <AssemblyName>hackerrank.solutions.mean_median_and_mode</AssemblyName>
+    <RootNamespace>mean_median_and_mode</RootNamespace>
+    <AssemblyName>mean_median_and_mode</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace hackerrank.solutions.mean_median_and_mode
+namespace mean_median_and_mode
 {
     class Program
     {
