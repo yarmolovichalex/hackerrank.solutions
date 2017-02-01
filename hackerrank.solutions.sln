@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stacks_balanced_brackets", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "queues_a_tale_of_two_stacks", "queues_a_tale_of_two_stacks\queues_a_tale_of_two_stacks.csproj", "{C38FB4C1-C066-4BA9-81B3-D42DDF128F37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heaps_finding_the_running_median", "heaps_finding_the_running_median\heaps_finding_the_running_median.csproj", "{6930DEED-53FD-40DE-B1CB-0048730377EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{C38FB4C1-C066-4BA9-81B3-D42DDF128F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C38FB4C1-C066-4BA9-81B3-D42DDF128F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C38FB4C1-C066-4BA9-81B3-D42DDF128F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6930DEED-53FD-40DE-B1CB-0048730377EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930DEED-53FD-40DE-B1CB-0048730377EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930DEED-53FD-40DE-B1CB-0048730377EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930DEED-53FD-40DE-B1CB-0048730377EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -88,5 +94,6 @@ Global
 		{77FB5505-E9CC-4BCA-8324-A0EAE0FC8B97} = {2B5D2FF9-D50D-423C-8FB3-39BA5E28348B}
 		{617C2440-EA1C-4F6C-8962-FEF6FF11FA61} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 		{C38FB4C1-C066-4BA9-81B3-D42DDF128F37} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
+		{6930DEED-53FD-40DE-B1CB-0048730377EB} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 	EndGlobalSection
 EndGlobal
