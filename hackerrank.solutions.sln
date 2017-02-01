@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heaps_finding_the_running_m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sorting_bubble_sort", "sorting_bubble_sort\sorting_bubble_sort.csproj", "{94015ACF-3E22-4AB1-931A-40B355101EA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binary_search_ice_cream_parlor", "binary_search_ice_cream_parlor\binary_search_ice_cream_parlor.csproj", "{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{94015ACF-3E22-4AB1-931A-40B355101EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94015ACF-3E22-4AB1-931A-40B355101EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94015ACF-3E22-4AB1-931A-40B355101EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -102,5 +108,6 @@ Global
 		{C38FB4C1-C066-4BA9-81B3-D42DDF128F37} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 		{6930DEED-53FD-40DE-B1CB-0048730377EB} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 		{94015ACF-3E22-4AB1-931A-40B355101EA1} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
+		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 	EndGlobalSection
 EndGlobal
