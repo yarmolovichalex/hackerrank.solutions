@@ -39,6 +39,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Constructive Algorithms", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flipping_the_matrix", "flipping_the_matrix\flipping_the_matrix.csproj", "{F8053C22-2496-4789-B16C-2A6D94AF9389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bonetrousle", "bonetrousle\bonetrousle.csproj", "{6FB2631D-B669-40FF-AC23-79F37C33503A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{F8053C22-2496-4789-B16C-2A6D94AF9389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8053C22-2496-4789-B16C-2A6D94AF9389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8053C22-2496-4789-B16C-2A6D94AF9389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB2631D-B669-40FF-AC23-79F37C33503A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB2631D-B669-40FF-AC23-79F37C33503A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB2631D-B669-40FF-AC23-79F37C33503A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB2631D-B669-40FF-AC23-79F37C33503A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,5 +127,6 @@ Global
 		{8AADAB0E-A6C8-43D8-A9D7-7E31FA5C2A83} = {F9F6CF40-7837-4112-AC56-63DC6AF67D2D}
 		{AB5A2D10-5763-4EEE-B64A-49BAE95EEC7B} = {2FE7ABF3-5E9D-4703-B305-63BE17030251}
 		{F8053C22-2496-4789-B16C-2A6D94AF9389} = {AB5A2D10-5763-4EEE-B64A-49BAE95EEC7B}
+		{6FB2631D-B669-40FF-AC23-79F37C33503A} = {AB5A2D10-5763-4EEE-B64A-49BAE95EEC7B}
 	EndGlobalSection
 EndGlobal
