@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "left_rotation", "left_rotat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithmic_crush", "algorithmic_crush\algorithmic_crush.csproj", "{B0CB1BC7-9B79-4ECE-8FEA-EA0AD1EB37FD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stacks", "Stacks", "{E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximum_element", "maximum_element\maximum_element.csproj", "{5CF995E1-DE08-4A81-BB97-FEDAB41F429B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,10 @@ Global
 		{B0CB1BC7-9B79-4ECE-8FEA-EA0AD1EB37FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0CB1BC7-9B79-4ECE-8FEA-EA0AD1EB37FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0CB1BC7-9B79-4ECE-8FEA-EA0AD1EB37FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -147,5 +155,7 @@ Global
 		{FE8F6C88-6D51-45D7-82B9-40525FA830E3} = {37CBAC7D-F45F-4B99-A0C0-D4C4216CF0EF}
 		{F5FC67C3-F544-48C4-BFDE-CA84FFD803B1} = {FE8F6C88-6D51-45D7-82B9-40525FA830E3}
 		{B0CB1BC7-9B79-4ECE-8FEA-EA0AD1EB37FD} = {FE8F6C88-6D51-45D7-82B9-40525FA830E3}
+		{E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977} = {37CBAC7D-F45F-4B99-A0C0-D4C4216CF0EF}
+		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B} = {E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977}
 	EndGlobalSection
 EndGlobal
