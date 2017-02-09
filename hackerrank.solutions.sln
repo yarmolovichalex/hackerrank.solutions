@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maximum_element", "maximum_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "balanced_brackets", "balanced_brackets\balanced_brackets.csproj", "{224A4907-A8D6-4BFD-8805-6FA847F9CED2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search", "Search", "{41BC3264-83F1-4C58-AC40-1954FC75485E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "missing_numbers", "missing_numbers\missing_numbers.csproj", "{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -137,6 +141,10 @@ Global
 		{224A4907-A8D6-4BFD-8805-6FA847F9CED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224A4907-A8D6-4BFD-8805-6FA847F9CED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224A4907-A8D6-4BFD-8805-6FA847F9CED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -164,5 +172,7 @@ Global
 		{E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977} = {37CBAC7D-F45F-4B99-A0C0-D4C4216CF0EF}
 		{5CF995E1-DE08-4A81-BB97-FEDAB41F429B} = {E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977}
 		{224A4907-A8D6-4BFD-8805-6FA847F9CED2} = {E1E1A9EF-EF7B-40F8-8A25-B9FC3E694977}
+		{41BC3264-83F1-4C58-AC40-1954FC75485E} = {2FE7ABF3-5E9D-4703-B305-63BE17030251}
+		{0CBDB46F-BE44-4BB8-AEDA-24F40093ECC4} = {41BC3264-83F1-4C58-AC40-1954FC75485E}
 	EndGlobalSection
 EndGlobal
