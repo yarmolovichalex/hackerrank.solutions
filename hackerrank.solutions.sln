@@ -73,6 +73,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{46C1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "the_love_letter_mystery", "the_love_letter_mystery\the_love_letter_mystery.csproj", "{2A17E968-384E-4156-9E50-77D8FF32817E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome_index", "palindrome_index\palindrome_index.csproj", "{74704B26-8707-48B9-AE89-4B29090C32B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{2A17E968-384E-4156-9E50-77D8FF32817E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A17E968-384E-4156-9E50-77D8FF32817E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A17E968-384E-4156-9E50-77D8FF32817E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74704B26-8707-48B9-AE89-4B29090C32B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74704B26-8707-48B9-AE89-4B29090C32B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74704B26-8707-48B9-AE89-4B29090C32B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74704B26-8707-48B9-AE89-4B29090C32B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -211,5 +217,6 @@ Global
 		{7F7CF4DD-F626-4CD5-B59F-24E39413FB5A} = {BF320BE0-C632-4FE1-ACFE-607BA6F57D5D}
 		{46C17BEE-23DC-4A13-96AC-A134B51F82E2} = {2FE7ABF3-5E9D-4703-B305-63BE17030251}
 		{2A17E968-384E-4156-9E50-77D8FF32817E} = {46C17BEE-23DC-4A13-96AC-A134B51F82E2}
+		{74704B26-8707-48B9-AE89-4B29090C32B6} = {46C17BEE-23DC-4A13-96AC-A134B51F82E2}
 	EndGlobalSection
 EndGlobal
