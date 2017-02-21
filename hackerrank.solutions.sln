@@ -79,6 +79,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{F4D3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "closest_numbers", "closest_numbers\closest_numbers.csproj", "{F384206D-8EB8-4949-BCBD-FE8521FA9991}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "find_the_median", "find_the_median\find_the_median.csproj", "{EA156577-20DC-4200-B31A-86B81FFD5681}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{F384206D-8EB8-4949-BCBD-FE8521FA9991}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F384206D-8EB8-4949-BCBD-FE8521FA9991}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F384206D-8EB8-4949-BCBD-FE8521FA9991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA156577-20DC-4200-B31A-86B81FFD5681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA156577-20DC-4200-B31A-86B81FFD5681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA156577-20DC-4200-B31A-86B81FFD5681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA156577-20DC-4200-B31A-86B81FFD5681}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,5 +234,6 @@ Global
 		{74704B26-8707-48B9-AE89-4B29090C32B6} = {46C17BEE-23DC-4A13-96AC-A134B51F82E2}
 		{F4D3503C-B4FE-4C85-AD40-B91B12526590} = {2FE7ABF3-5E9D-4703-B305-63BE17030251}
 		{F384206D-8EB8-4949-BCBD-FE8521FA9991} = {F4D3503C-B4FE-4C85-AD40-B91B12526590}
+		{EA156577-20DC-4200-B31A-86B81FFD5681} = {F4D3503C-B4FE-4C85-AD40-B91B12526590}
 	EndGlobalSection
 EndGlobal
